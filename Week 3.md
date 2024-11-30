@@ -90,14 +90,15 @@ reboot
 ```
 
 <br>
+<br>
+
+## Thumbs Project
+
+<br>
 
 ### Now open a web browser on your computer and enter '192.168.55.1:8888' in the address bar.
 
 
-<br>
-<br>
-
-## Thumbs Project
 ![image](https://github.com/user-attachments/assets/eab669ba-585a-48a2-9096-ae89e084cae1)
 
 
