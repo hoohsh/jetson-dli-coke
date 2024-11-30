@@ -1,1 +1,40 @@
+# NVIDIA Jetson Activities
 
+## 1. Using jtop
+### What is jtop?
+`jtop` is a powerful tool for monitoring the system status of NVIDIA Jetson devices in real time. Jetson Nano and similar devices provide the following information:
+- **Temperature**: Displays the temperature of components such as the CPU, GPU, and PMIC (Power Management IC).
+- **Resource Usage**: Monitors CPU and GPU usage, memory and swap usage, and power consumption.
+- **Process Management**: Lists running processes and their resource usage.
+- **Device Information**: Displays hardware and software details, including the JetPack version.
+
+### Checking Temperature with jtop
+To monitor the system temperature, run the following command in the terminal:
+```bash
+jtop
+
+
+## 2. Installing a Cooling Fan
+
+### Why Install a Cooling Fan?
+The Jetson Nano may experience performance degradation or system instability due to high temperatures. Installing a cooling fan helps to manage the device's temperature effectively.
+
+### Installation Steps
+
+2-1. **Connect the Fan:**
+   - Attach the fan's red (+), black (-), and yellow (PWM) wires to the Jetson Nano pin headers.
+   - Pin configuration:
+     - **5V** (+)
+     - **GND** (-)
+     - **PWM**
+
+2-2. **Secure the Fan:**
+   - Place the fan on top of the Nano's heatsink and secure it with screws.
+
+2-3. **Adjust Fan Speed:**
+   Run the following command to control the fan's speed:
+   ```bash
+   sudo sh -c 'echo 128 > /sys/devices/pwm-fan/target_pwm'
+Check Temperature: Use the jtop command to verify that the temperature has dropped.
+bash
+jtop
