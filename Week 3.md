@@ -96,9 +96,42 @@ reboot
 
 <br>
 
-### Now open a web browser on your computer and enter '192.168.55.1:8888' in the address bar.
-
+### 1. Now open a web browser on your computer and enter 'http://192.168.0.204:8888' in the address bar.
+password is 'dlinano'
 
 ![image](https://github.com/user-attachments/assets/eab669ba-585a-48a2-9096-ae89e084cae1)
 
+Start with classification practice.
+
+<br>
+
+![image](https://github.com/user-attachments/assets/e1ba2991-8bd1-4d2c-84db-9da39fc866e0)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/bc79bdf1-dbe2-4897-98cd-19ffb17b3e63)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/8f51c71e-8bd3-4f64-b216-d2e8b743b789)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/7d068ded-2777-4f9f-8973-6f56df0eb5e0)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/dc4fc18c-6ad2-4366-a05a-c3199f738d7b)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/0333a6e1-372c-4455-9ffe-00c7669cb8ef)
+
+![image](https://github.com/user-attachments/assets/57578bad-0516-4e4f-8a11-3379d6d8560d)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a2ebdb51-baaa-4b9c-b538-7035a5ddedbb)
+
+![image](https://github.com/user-attachments/assets/b99fdbfd-f79f-4a68-904a-40ec85bebef3)
 
