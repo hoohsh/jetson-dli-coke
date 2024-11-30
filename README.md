@@ -125,10 +125,12 @@ Reboot your system to apply the changes.
 To monitor the system temperature, run the following command in the terminal:
 jtop
 
+
 ## 2. Installing a Cooling Fan
 
 ### Why Install a Cooling Fan?
 The Jetson Nano may experience performance degradation or system instability due to high temperatures. Installing a cooling fan helps to manage the device's temperature effectively.
+
 
 ### Installation Steps
 
@@ -148,6 +150,7 @@ The Jetson Nano may experience performance degradation or system instability due
 
 Check Temperature: Use the jtop command to verify that the temperature has dropped.
 jtop
+
 
 
 ## 3. Installing and Testing the Camera
@@ -171,6 +174,7 @@ Run the camera script to test functionality:
 python3 usb-camera-gst.py
 
 
+
 ## 4. Capturing Images
 
 To capture an image with the camera, use the following command:
@@ -178,6 +182,8 @@ nvgstcapture-1.0 --mode=1 --camsrc=0 --cap-dev-node=0 --automate --capture-auto
 
 Once the camera is active, press J on the keyboard to capture an image.
 ![image](https://github.com/user-attachments/assets/912c2915-a036-475b-b730-597fbb7ac841)
+
+
 
 ## 5. Recording Videos
 
@@ -188,6 +194,8 @@ To record videos, follow these steps:
 
 Recording Started(1), Enter (0) to stop OR (2) to take a photo.
 Press 0 to stop recording or 2 to capture a snapshot during recording.
+
+
 
 # Week 3
 
