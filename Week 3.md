@@ -1,7 +1,7 @@
 # Jetson_Dli - day03
 
 
-
+<br>
 
 
 ## Preparation
@@ -13,7 +13,6 @@
    - The development environment should not connect the Jetson to a TV.
    - The Jetson should be connected to the internet via Ethernet (wired) or Wi-Fi (wireless).
 
-<br>
 <br>
 <br>
 
@@ -55,8 +54,8 @@ dli@dli-desktop:~$ ./docker_dli_run.sh
 
 ```
 
-
-
+<br>
+<br>
 
 
 ## Increase Swap Memory to 18GB After Execution
