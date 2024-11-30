@@ -1,5 +1,8 @@
 # Jetson_Dli - day03
----
+
+
+
+
 
 ## Preparation
 
@@ -10,7 +13,10 @@
    - The development environment should not connect the Jetson to a TV.
    - The Jetson should be connected to the internet via Ethernet (wired) or Wi-Fi (wireless).
 
----
+
+
+
+
 
 ## What is Headless Mode for Jetson Nano?
 
@@ -20,7 +26,10 @@ Headless mode refers to operating the Jetson Nano without a monitor, keyboard, o
 
 This mode is ideal for remote development and deployment environments, where the Jetson Nano is managed via network access (e.g., SSH) instead of direct physical interaction.
 
----
+
+
+
+
 
 ## NVIDIA Jetson Nano DLI AI Development Environment
 
@@ -45,6 +54,9 @@ sudo docker run --runtime nvidia -it --rm --network host \
 dli@dli-desktop:~$ ./docker_dli_run.sh
 
 ```
+
+
+
 
 
 ## Increase Swap Memory to 18GB After Execution
@@ -77,3 +89,4 @@ sudo systemctl set-default graphical.target
 reboot
 ```
 
+### Now open a web browser on your computer and enter 192.168.55.1:8888 in the address bar.
