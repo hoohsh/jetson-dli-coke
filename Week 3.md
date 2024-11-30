@@ -138,8 +138,7 @@ Start with classification practice.
 
 <br>
 
-### Data Collection
-
+### 1. Data Collection 
 1. Choose one of the datasets: A or B.
 
 2. Select the category `thumbs_up`.  
@@ -150,14 +149,13 @@ Start with classification practice.
 
 ![image](https://github.com/user-attachments/assets/b99fdbfd-f79f-4a68-904a-40ec85bebef3)
 
-### Training
+### 2. Training
 After capturing all the images, click the `train` button to start the training process.  
 You can monitor the progress using the progress bar.
 
-### Test
+### 3. Test
 Click the 'live' button in the top-right corner of the state to start testing.
 
-<br>
 <br>
 When you raise your thumb upward, you can see the 'thumbs_up' ratio increase.
 
