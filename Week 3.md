@@ -156,4 +156,10 @@ You can monitor the progress using the progress bar.
 
 ### Test
 Click the 'live' button in the top-right corner of the state to start testing.
+<br>
+When you raise your thumb upward, you can see the 'thumbs_up' ratio increase.
+![image](https://github.com/user-attachments/assets/5d735914-8c3c-4b53-95cc-67175dfb214a)
 
+<br>
+When you point your thumb downward, you can see the 'thumbs_down' ratio increase.
+![image](https://github.com/user-attachments/assets/f4c22467-2ccf-4572-b760-edf9735a7653)
