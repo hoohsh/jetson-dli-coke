@@ -80,6 +80,7 @@ sudo reboot
 After rebooting, connect the MICRO 5 PIN.
 → The "L4T connected" notification appears in the bottom-right corner.
 
+<br>
 
 ### Set the system to GUI mode.
 ```
@@ -88,4 +89,12 @@ sudo systemctl set-default graphical.target
 reboot
 ```
 
+<br>
+
 ### Now open a web browser on your computer and enter '192.168.55.1:8888' in the address bar.
+
+
+<br>
+<br>
+
+## 
