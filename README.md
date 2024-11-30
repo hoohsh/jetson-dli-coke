@@ -177,10 +177,12 @@ python3 usb-camera-gst.py
 
 ## 4. Capturing Images
 
-To capture an image with the camera, use the following command:
+To perform automatic capture, use the following command:
 nvgstcapture-1.0 --mode=1 --camsrc=0 --cap-dev-node=0 --automate --capture-auto
 
-Once the camera is active, press J on the keyboard to capture an image.
+Once the camera is active, press J on the keyboard to capture an image:
+nvgstcapture-1.0 --mode=1 --camsrc=0 --cap-dev-node=0
+
 ![image](https://github.com/user-attachments/assets/912c2915-a036-475b-b730-597fbb7ac841)
 
 
@@ -195,8 +197,7 @@ To record videos, follow these steps:
 Recording Started(1), Enter (0) to stop OR (2) to take a photo.
 Press 0 to stop recording or 2 to capture a snapshot during recording.
 
-###we recorded video
-###recording video url = https://youtu.be/qg-SgLgWycg
+we recorded video, recording video url = https://youtu.be/qg-SgLgWycg
 
 
 
