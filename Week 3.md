@@ -97,4 +97,7 @@ reboot
 <br>
 <br>
 
-## 
+## Thumbs Project
+![image](https://github.com/user-attachments/assets/eab669ba-585a-48a2-9096-ae89e084cae1)
+
+
