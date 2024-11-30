@@ -1,5 +1,5 @@
 # Jetson nano introduction
-# Day 1
+# Week 1
 
 ## 1. Overview of Jetson Nano Components
 ![image](https://github.com/user-attachments/assets/9e7ca8ac-d40e-4091-8014-fbe3ecb1fa4d)
