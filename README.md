@@ -195,6 +195,9 @@ To record videos, follow these steps:
 Recording Started(1), Enter (0) to stop OR (2) to take a photo.
 Press 0 to stop recording or 2 to capture a snapshot during recording.
 
+###we recorded video
+###recording video url = https://youtu.be/qg-SgLgWycg
+
 
 
 # Week 3
