@@ -111,3 +111,29 @@ Reboot your system to apply the changes.
 1. Go to the **Global Config** tab.
 2. Click on **Trigger Input Method**.
 3. Press the key you want to use for switching between Korean and English (e.g., the Korean/English key).
+
+# Week 2
+## 2. Installing a Cooling Fan
+
+### Why Install a Cooling Fan?
+The Jetson Nano may experience performance degradation or system instability due to high temperatures. Installing a cooling fan helps to manage the device's temperature effectively.
+
+### Installation Steps
+
+1. **Connect the Fan:**
+   - Attach the fan's red (+), black (-), and yellow (PWM) wires to the Jetson Nano pin headers.
+   - Pin configuration:
+     - **5V** (+)
+     - **GND** (-)
+     - **PWM**
+
+2. **Secure the Fan:**
+   - Place the fan on top of the Nano's heatsink and secure it with screws.
+
+3. **Adjust Fan Speed:**
+   Run the following command to control the fan's speed:
+   ```bash
+   sudo sh -c 'echo 128 > /sys/devices/pwm-fan/target_pwm'
+Check Temperature: Use the jtop command to verify that the temperature has dropped.
+bash
+jtop
