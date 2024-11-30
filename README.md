@@ -2,6 +2,8 @@
 # Day 1
 
 ## 1. Overview of Jetson Nano Components
+![image](https://github.com/user-attachments/assets/9e7ca8ac-d40e-4091-8014-fbe3ecb1fa4d)
+
 
 ### Heatsink
 The heatsink is used to cool down the processor of the Jetson Nano. It helps dissipate heat during extended usage, preventing overheating.
@@ -36,6 +38,9 @@ This port is for connecting a MIPI CSI camera module. It’s commonly used in vi
 
 Here are the steps to install Ubuntu on the NVIDIA Jetson Nano. Ubuntu is a popular Linux-based operating system, often used for AI, machine learning, and other development projects.
 
+![image](https://github.com/user-attachments/assets/7af3fcef-2ef8-4c98-a1ba-37fccaa8fa47)
+
+
 ### 2.1 Basic System Setup
 During the initial setup, you’ll select essential settings, including language, time zone, and keyboard layout to personalize your system.
 
@@ -53,6 +58,8 @@ After the setup, the system will finalize the installation and apply the configu
 ## 3. Desktop Icons on NVIDIA Jetson Nano with Ubuntu
 
 Here are the main icons displayed on the Ubuntu desktop of the NVIDIA Jetson Nano:
+![image](https://github.com/user-attachments/assets/b843fc1d-3502-4a1f-a1ab-5b396efd8fb0)
+
 
 ### 3.1 Chromium Web Browser
 A web browser available by default on Ubuntu, used to browse the internet.
@@ -75,6 +82,8 @@ A link to the Jetson user community, where users can interact and share knowledg
 ---
 
 ## 4. Installing Korean Input Method on Ubuntu
+![image](https://github.com/user-attachments/assets/252c3afc-3d3f-4660-9f5e-578c08cc52c6)
+
 
 To install the Korean input method on Ubuntu, follow these steps:
 
